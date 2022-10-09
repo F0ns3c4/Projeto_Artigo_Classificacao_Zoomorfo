@@ -1,0 +1,45 @@
+#ID: Nomenclatura da Entrada dos Dados de Identificacão e Contextualizacão das Unidades Pictóricas
+#Exemplo
+#KRP_BRI_001 (Regiao; Sitio Arqueologico; Unidade pictórica)
+
+#Identificacao da Regiao = 
+# Sigla = Regiao
+# KRP  =  Cariri Paraibano
+# MXT  =  Moxotó Pernambucano
+
+#Identificão dos Sitios Arqueologicos =
+# Siglas    Sitios Arqueologicos
+# (BRI)     Beira Rio
+# (CB4)     Cacimba das Bestas IV
+# (CGA)     Cangalha
+# (LMR)     Lamarão
+# (RNA)     Roça Nova
+# (JR2)     Jurema II
+# (PDV)     Pedra dos Veados
+# (PDS)     Pedra do Sapo
+# (EDJ)     Escondido da Jurema
+# (SC1)     Serrote do Camaleão I
+# (PDF)     Pedra do Flamengo
+# (CD1)     Cadeia I
+# (FSB)     Furna da Serra do Barreiro
+# (FMG)     Furna do Letreiro da Mina Grande
+# (FDM)     Furna do Morcego
+# (FDV)     Furna dos Veados
+# (LDC)     Loca dos Caboclos
+# (LCZ)     Loca da Cinza
+# (SDE)     Sitio da Ema
+# (SVO)     Sitio do Veado
+# (TU1)     Tauã I
+# (TDG)     Toca do Gato
+# (TGR)     Sitio Toca do Guardião
+# (LDP)     Lagoa dos Patos
+
+
+#Numeração da unidade de pintura rupestre no sítio arqueologico =
+#001
+#002
+#Exemplos:
+#KRP_BRI_001 (KRP = Cariri paraibano; BRI = Sitio Beira Rio; 001 = Unidade pictórica X)
+#KRP_RNA_010 (KRP = Cariri paraibano; BRI = Sitio Roça Nova; 010 = Unidade pictórica X)
+#MXT_TDG_002 (MXT = Moxotó pernambucano; TDG = Toca do Gato; 002 = Unidade pictórica X)
+
