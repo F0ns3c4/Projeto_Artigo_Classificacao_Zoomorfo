@@ -1,2 +1,3 @@
 # Projeto_Classificacao_Zoomorfo
 Deposito do banco de dados zoomorfos (Thiago Fonseca)
+do artigo "QUE ANIMAL É ESSE? UMA PROPOSTA TEÓRICO-METODOLÓGICA DE CLASSIFICAÇÃO TAXONÂMICA ARQUEOLÓGICA EM REGISTRO RUPESTRE DAS REPRESENTAÇÕES ZOOMÓRFICAS RECONHECÍVEIS."
